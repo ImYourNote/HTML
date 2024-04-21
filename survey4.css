@@ -1,0 +1,28 @@
+body {
+    background-color: aliceblue;
+}
+h1 {
+    color : brown;
+    text-align: center;
+}
+form {
+    background: pink;
+}
+hr {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+span {
+    padding : 10px;
+    color : blue;
+    font-weight: bold;
+}
+label, footer, p{
+    font-family: 휴먼편지체;
+}
+footer {
+    background-color: orange;
+    border-radius: 15px;
+}
+p {text-indent: 1em;}
